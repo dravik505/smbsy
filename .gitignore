@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+loot/
+manifest.json
+*.log
+.smbsy_state.json
+.smbsy_history
+.smbsy_notes.md
